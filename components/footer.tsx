@@ -31,11 +31,11 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <Mail className="h-5 w-5 text-gold" />
-                <span>info@safarilimovip.com</span>
+                <span>h01122742618@gmail.com</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <MapPin className="h-5 w-5 text-gold" />
-                <span>Dubai, UAE</span>
+                <span>القاهره الشيخ ذايد, UAE</span>
               </div>
             </div>
           </div>
